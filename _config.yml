@@ -22,18 +22,11 @@ authors:
     sal:
       name:           Park Jin-A
       site:           https://github.com/Goguma1111
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      #twitter:        https://twitter.com/wowthemesnet
+      avatar:         assets/images/avatar1.jpg
+      bio:            "just for fun"
+      email:          doffltm112543@gmail.com
+      #twitter:       https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
