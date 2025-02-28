@@ -4,7 +4,7 @@ description: 'Just For Fun'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
-#disqus: 'demowebsite'
+disqus: 'https-github-com-goguma1111-my-coding-test'
 email: 'doffltm112543@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -23,7 +23,7 @@ authors:
       name:           Park Jin-A
       site:           https://github.com/Goguma1111
       avatar:         assets/images/avatar1.jpg
-      bio:            "just for fun"
+      bio:            "Just For Fun"
       email:          doffltm112543@gmail.com
       #twitter:       https://twitter.com/wowthemesnet
 
