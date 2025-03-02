@@ -1,8 +1,8 @@
 # Site
 name: 'Park Jin-A'
 description: 'Just For Fun'
-logo: 'assets\images\logo.png'
-favicon: 'assets\images\favicon.ico'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'https-github-com-goguma1111-my-coding-test'
 email: 'doffltm112543@gmail.com'
@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Park Jin-A
       site:           https://github.com/Goguma1111
-      avatar:         assets\images\avatar1.jpg
+      avatar:         /assets/images/avatar1.jpg
       bio:            "Just For Fun"
       email:          doffltm112543@gmail.com
       #twitter:       https://twitter.com/wowthemesnet
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: goguma
-      avatar: assets\images\avatar1.jpg
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
