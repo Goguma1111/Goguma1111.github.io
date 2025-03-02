@@ -1,8 +1,8 @@
 # Site
 name: 'Park Jin-A'
 description: 'Just For Fun'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets\images\logo.png'
+favicon: 'assets\images\favicon.ico'
 baseurl: '/'
 disqus: 'https-github-com-goguma1111-my-coding-test'
 email: 'doffltm112543@gmail.com'
